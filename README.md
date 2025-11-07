@@ -51,7 +51,7 @@ Each implementation was developed and tested separately on different local machi
 
 ### 🧱 Step 1 — Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/real-time-analytics-dashboard.git
+git clone https://github.com/Aya-Nabil11/Real-Time-Analytics-Dashboard.git
 cd real-time-analytics-dashboard
 ````
 
