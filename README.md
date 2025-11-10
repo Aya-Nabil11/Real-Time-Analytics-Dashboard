@@ -19,7 +19,7 @@ This scenario allowed us to practically explore:
 
 ---
 ARCHITECTURE File : https://docs.google.com/document/d/16ccqvabPPXfxETTaFiE0VeU_WZdgMoo1/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
-Analysis Report : https://docs.google.com/document/d/1Bstk_cG4m2aOE6qvPICiW2abPh0f8cxA/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
+---Analysis Report : https://docs.google.com/document/d/1Bstk_cG4m2aOE6qvPICiW2abPh0f8cxA/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
 
 ## 🧩 Tech Stack Used
 
@@ -140,14 +140,7 @@ results/
 ├── approach2.json
 ```
 
-Graphs are available in:
 
-```
-benchmarks/
-├── latency-comparison.png
-├── throughput-comparison.png
-├── resource-usage.png
-```
 
 ---
 
