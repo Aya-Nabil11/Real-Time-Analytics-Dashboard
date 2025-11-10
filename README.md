@@ -18,8 +18,8 @@ This scenario allowed us to practically explore:
 * Scalability trade-offs using **Redis and WebSocket broadcasting**
 
 ---
-ARCHITECTURE File : https://docs.google.com/document/d/16ccqvabPPXfxETTaFiE0VeU_WZdgMoo1/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
----Analysis Report : https://docs.google.com/document/d/1Bstk_cG4m2aOE6qvPICiW2abPh0f8cxA/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
+*ARCHITECTURE File* : https://docs.google.com/document/d/16ccqvabPPXfxETTaFiE0VeU_WZdgMoo1/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
+*Analysis Report* : https://docs.google.com/document/d/1Bstk_cG4m2aOE6qvPICiW2abPh0f8cxA/edit?usp=sharing&ouid=100654129709547485998&rtpof=true&sd=true
 
 ## 🧩 Tech Stack Used
 
@@ -190,6 +190,4 @@ results/
 * **Approach 2** demonstrates production-level scalability using modern web protocols and caching.
 * The final system shows a **60% reduction in latency** and **1.5× throughput improvement** under HTTP/2.
 
----
 
-Would you like me to now generate the matching **ARCHITECTURE.md** file (with diagrams and OSI breakdown) next?
